@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **react**
 
-- 👨‍💻 All of my projects are available at [rohitpadwal.me/](rohitpadwal.me/)
+- 👨‍💻 All of my projects are available at [https://rohitpadwal.me](https://rohitpadwal.me)
 
 - 💬 Ask me about **Java, Angular, SDLC, Python**
 
