@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rpadwal98@gmail.com**
 
-- 📄 Know about my experiences [https://rohitpadwal.me/resume/RohitPadwal_newgrad_3yexp_%20Resume.pdf](https://rohitpadwal.me/resume/RohitPadwal_newgrad_3yexp_%20Resume.pdf)
+- 📄 Know about my experiences [https://rohitpadwal.me/resume/Rohit_Padwal_Resume.pdf](https://rohitpadwal.me/resume/Rohit_Padwal_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
